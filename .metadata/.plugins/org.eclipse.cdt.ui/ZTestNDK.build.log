@@ -1,6 +1,0 @@
-23:01:58 **** Incremental Build of configuration Default for project ZTestNDK ****
-ndk-build V=1 V=1 
-Cannot run program "ndk-build": Launching failed
-
-23:01:58 Build Finished (took 50ms)
-

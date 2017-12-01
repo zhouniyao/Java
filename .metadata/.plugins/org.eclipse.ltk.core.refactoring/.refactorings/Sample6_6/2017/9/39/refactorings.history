@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Bezier.java&apos; to &apos;Sample6_5/src/com.bn.Sample6_5&apos;&#x0D;&#x0A;- Original project: &apos;Sample6_6&apos;&#x0D;&#x0A;- Destination element: &apos;Sample6_5/src/com.bn.Sample6_5&apos;&#x0D;&#x0A;- Original element: &apos;com.bn.Sample6_6.Bezier.java&apos;" description="Copy compilation unit" destination="=Sample6_5/src&lt;com.bn.Sample6_5" element1="/src&lt;com.bn.Sample6_6{Bezier.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1506517935576" units="1" version="1.0"/>
-</session>

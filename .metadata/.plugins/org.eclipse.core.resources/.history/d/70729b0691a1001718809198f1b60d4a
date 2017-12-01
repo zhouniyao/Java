@@ -1,8 +1,0 @@
-package com.niming.vrndk03;
-
-public class JniClient {
-	/*本地方法*/
-	public static native int[] useArray(int arr[], int length);
-	//只有以一个字符数组为参数的本地方法
-	public static native int LibMain(String[] arr);
-}

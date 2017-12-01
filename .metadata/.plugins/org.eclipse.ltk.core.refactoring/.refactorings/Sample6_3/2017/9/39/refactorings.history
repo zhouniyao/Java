@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Ball.java&apos; to &apos;VRNDK02/src/com.geometric&apos;&#x0D;&#x0A;- Original project: &apos;Sample6_3&apos;&#x0D;&#x0A;- Destination element: &apos;VRNDK02/src/com.geometric&apos;&#x0D;&#x0A;- Original element: &apos;com.bn.Sample6_3.Ball.java&apos;" description="Copy compilation unit" destination="=VRNDK02/src&lt;com.geometric" element1="/src&lt;com.bn.Sample6_3{Ball.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1506428804001" units="1" version="1.0"/>
-</session>

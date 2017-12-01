@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;ObjLoader.java&apos; to &apos;OBJLoader2/src/com.airhockey.android.util&apos;&#x0D;&#x0A;- Original project: &apos;ObjLoader&apos;&#x0D;&#x0A;- Destination element: &apos;OBJLoader2/src/com.airhockey.android.util&apos;&#x0D;&#x0A;- Original element: &apos;com.niming.objloader.ObjLoader.java&apos;" description="Copy compilation unit" destination="=OBJLoader2/src&lt;com.airhockey.android.util" element1="/src&lt;com.niming.objloader{ObjLoader.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1497949326129" units="1" version="1.0"/>
-</session>

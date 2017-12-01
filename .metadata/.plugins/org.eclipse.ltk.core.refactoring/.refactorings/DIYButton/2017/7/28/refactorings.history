@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Move 1 resources to &apos;drawable-mdpi&apos;" description="Move 1 resources to &apos;drawable-mdpi&apos;" destination="res/drawable-mdpi" element1="res/drawable-hdpi/taiji.jpg" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1499951573792" updateReferences="true"/>&#x0A;<refactoring comment="Move 1 resources to &apos;drawable&apos;" description="Move 1 resources to &apos;drawable&apos;" destination="res/drawable" element1="res/drawable-mdpi/taiji.jpg" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1499951678063" updateReferences="true"/>
-</session>

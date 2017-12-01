@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.android.simplendk&apos; to &apos;com.android.simple&apos;&#x0D;&#x0A;- Original project: &apos;HelloJNI&apos;&#x0D;&#x0A;- Original element: &apos;HelloJNI/src/com.android.simplendk&apos;&#x0D;&#x0A;- Renamed element: &apos;HelloJNI/src/com.android.simple&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.android.simplendk&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.android.simplendk" name="com.android.simple" qualified="false" references="true" stamp="1497872134721" textual="false" version="1.0"/>
-</session>

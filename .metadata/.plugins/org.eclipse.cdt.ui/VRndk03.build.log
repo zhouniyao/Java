@@ -1,8 +1,0 @@
-
-**** Build of configuration Default for project VRndk03 ****
-
-D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
-Install        : libVRndk03.so => libs/armeabi/libVRndk03.so
-
-
-**** Build Finished ****

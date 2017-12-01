@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;TextureHelper.java&apos; to &apos;VirsualReality01/src/niming.util&apos;&#x0D;&#x0A;- Original project: &apos;AirHockeyForNimingTextured&apos;&#x0D;&#x0A;- Destination element: &apos;VirsualReality01/src/niming.util&apos;&#x0D;&#x0A;- Original element: &apos;com.airhockey1.android.util.TextureHelper.java&apos;" description="Copy compilation unit" destination="=VirsualReality01/src&lt;niming.util" element1="/src&lt;com.airhockey1.android.util{TextureHelper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1502950993012" units="1" version="1.0"/>
-</session>
