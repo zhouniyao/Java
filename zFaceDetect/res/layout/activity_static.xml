@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title_static"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_horizontal"
+        android:text="照片贴图"
+        android:textSize="20dp" />
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center" 
+        >
+        <ImageView
+            android:id="@+id/static_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="4dp"
+            android:src="@drawable/no_photo" />
+	      <!-- 分割线 -->
+		<View 
+		    android:layout_width="fill_parent" 
+		    android:layout_height="4dip" 
+		    android:background="#FF4500" 
+		    android:layout_marginTop="2dip"></View> 
+    </LinearLayout>
+ 	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+ 		 <ImageButton 
+		     android:id="@+id/rect"
+		     android:src="@drawable/rect"
+			 android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+		 <ImageButton 
+		     android:id="@+id/hat"
+		     android:src="@drawable/hat3"
+			 android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+	 	 <ImageButton 
+	 	     android:id="@+id/pricess"
+	 	     android:src="@drawable/princess3"
+			android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+	 	 <ImageButton 
+	 	     android:id="@+id/zhenhuan"
+	 	     android:src="@drawable/zhenhuan3"
+	 
+			android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+	 	 <ImageButton 
+	 	     android:id="@+id/zhichang"
+	 	     android:src="@drawable/keai3"
+			android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+
+    </LinearLayout>
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/static_detect"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="智能贴图"
+            android:textSize="20sp" />
+    <TextView
+        android:id="@+id/paomadeng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:singleLine="true"
+        android:textSize="10dp"
+        android:text="'@'Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249     @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249         @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249         @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249        @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249" 
+        />
+    </LinearLayout>
+    
+</LinearLayout>

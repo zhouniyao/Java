@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="605" key="DIALOG_WIDTH"/>
+		<item value="280" key="DIALOG_Y_ORIGIN"/>
+		<item value="456" key="DIALOG_HEIGHT"/>
+		<item value="473" key="DIALOG_X_ORIGIN"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value=".z-5f" key="selection"/>
+		<list key="findhistory">
+			<item value=".z"/>
+			<item value=".y"/>
+			<item value="Log.i(&quot;曲线面1(x,y,z):&quot;, &quot;(&quot;+(dst[i][j].x-5f)+&quot;,&quot;+dst[i][j].y+&quot;,&quot;+dst[i][j].z+&quot;)&quot;+ &quot; &quot; + &quot;(&quot;+dst[i+1][j].x-5f+&quot;,&quot;+dst[i+1][j].y+&quot;,&quot;+dst[i+1][j].z+&quot;)&quot; + &quot; &quot; + &quot;(&quot;+dst[i][j+1].x-5f+&quot;,&quot;+dst[i][j+1].y+&quot;,&quot;+dst[i][j+1].z+&quot;)&quot;);"/>
+			<item value=".x"/>
+			<item value="+0"/>
+			<item value="/10"/>
+			<item value="/1"/>
+			<item value="/2"/>
+		</list>
+		<list key="replacehistory">
+			<item value=".z-5f"/>
+			<item value=".y-5f"/>
+			<item value=".x-5f"/>
+			<item value="-5"/>
+			<item value="/1"/>
+			<item value="/10"/>
+			<item value="+0"/>
+			<item value="+4"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="395" key="DIALOG_Y_ORIGIN"/>
+		<item value="609" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

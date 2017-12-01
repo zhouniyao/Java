@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;raw&apos;&#x0D;&#x0A;- Original project: &apos;AirHockeyForNimingTextured&apos;&#x0D;&#x0A;- Destination element: &apos;raw&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     texture_fragment_shader.glsl&#x0D;&#x0A;     texture_vertex_shader.glsl" description="Copy files" element1="res/raw/texture_fragment_shader.glsl" element2="res/raw/texture_vertex_shader.glsl" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1503817482714" target="/VirsualReality02/res/raw" units="0" version="1.0"/>
+</session>

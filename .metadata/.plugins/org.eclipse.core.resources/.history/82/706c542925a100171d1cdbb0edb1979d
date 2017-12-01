@@ -1,0 +1,7 @@
+package com.niming;
+
+public class ArrayTest {
+	static final void main(String [] args){
+		
+	}
+}

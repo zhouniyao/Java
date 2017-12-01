@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="baba">babababa</string>
+    <string name="mum">mamamama</string>
+    <string name="gege">gegegege</string>
+    <string name="jiejie">jiejie</string>
+    <string name="son">xiaobao</string>
+    <string name="author">Ni Ming</string>
+
+</resources>

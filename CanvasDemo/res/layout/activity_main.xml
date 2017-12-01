@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+     <!-- 分割线 -->
+	<View 
+	    android:layout_width="fill_parent" 
+	    android:layout_height="2dip" 
+	    android:background="#FF4500" 
+	    android:layout_marginTop="2dip"></View>  
+	    
+	<TextView 
+	    android:layout_width="fill_parent"  
+		android:layout_height="wrap_content" 
+		android:text="显示canvas区域以及clip方法的使用" />  
+	<ImageView 
+	    android:id="@+id/imgClip" 
+	    android:layout_width="fill_parent"  
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="10dip" />  
+        
+     <!-- 分割线 -->
+ 	<View 
+ 	    android:layout_width="fill_parent" 
+ 	    android:layout_height="2dip" 
+ 	    android:background="#FF4500" 
+ 	    android:layout_marginTop="2dip"></View>  
+ 	    
+    <TextView android:layout_width="fill_parent"  
+        	  android:layout_height="wrap_content" 
+        	  android:text="save方法和restore方法的使用" />  
+    <ImageView 
+         android:id="@+id/imgSave" 
+         android:layout_width="fill_parent"  
+         android:layout_height="200dp" 
+         android:layout_marginTop="10dip" />  
+         
+     <!-- 分割线 -->
+    <View 
+        android:layout_width="fill_parent" 
+        android:layout_height="2dip" 
+        android:background="#FF4500" 
+        android:layout_marginTop="2dip"></View>  
+    
+    <TextView 
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content" 
+        android:text="自定义View，获得了一个Canvas对象和绘图区域" />  
+        
+    <com.example.canvasdemo.MyView 
+         android:id="@+id/myView"  
+         android:layout_width="fill_parent" 
+         android:layout_height="wrap_content" />  
+
+</LinearLayout>

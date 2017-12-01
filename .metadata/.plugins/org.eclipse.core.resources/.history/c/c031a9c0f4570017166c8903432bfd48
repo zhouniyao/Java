@@ -1,0 +1,427 @@
+///*
+//
+//Book:      	Game and Graphics Programming for iOS and Android with OpenGL(R) ES 2.0
+//Author:    	Romain Marucchi-Foino
+//ISBN-10: 	1119975913
+//ISBN-13: 	978-1119975915
+//Publisher: 	John Wiley & Sons
+//
+//Copyright (C) 2011 Romain Marucchi-Foino
+//
+//This software is provided 'as-is', without any express or implied warranty.
+//In no event will the authors be held liable for any damages arising from the use of
+//this software. Permission is granted to anyone who either own or purchase a copy of
+//the book specified above, to use this software for any purpose, including commercial
+//applications subject to the following restrictions:
+//
+//1. The origin of this software must not be misrepresented; you must not claim that
+//you wrote the original software. If you use this software in a product, an acknowledgment
+//in the product would be appreciated but is not required.
+//
+//2. Altered source versions must be plainly marked as such, and must not be misrepresented
+//as being the original software.
+//
+//3. This notice may not be removed or altered from any source distribution.
+//
+//*/
+//
+//#include "templateApp.h"
+//
+//TEMPLATEAPP templateApp = { templateAppInit,
+//							templateAppDraw };
+///*定义顶点着色器和片段着色器的文件名*/
+//#define VERTEX_SHADER (char *)"vertex.glsl"
+//#define FRAGMENT_SHADER (char *)"fragment.glsl"
+///*声明标志，ON/OFF调试着色器功能*/
+//#define DEBUG_SHADERS 1
+///*创建管理所有着色器程序的空白PROGRAM结构*/
+//PROGRAM *program = NULL;
+///*MEMORY结构指针 除了该对象的所有工作都在内存中完成外，它的行为类似于C语言中的FILE*/
+//MEMORY *m =NULL;
+//static float y = 0.0f;
+//
+//void templateAppInit( int width, int height )
+//{
+//	atexit( templateAppExit );//应用程序退出时得到反馈
+//
+//	GFX_start();//开启GLES初始化
+//
+//	//视区
+//	glViewport( 0.0f, 0.0f, width, height );
+//	GFX_set_matrix_mode(PROJECTION_MATRIX);
+//
+//	{
+//		GFX_load_identity();
+//
+//		GFX_set_orthographic( ( float )height / ( float )width,
+//							  5.0f,
+//							  ( float )width / ( float )height,
+//							  1.0f,
+//							  100.0f,
+//							  0.0f );
+//
+//		glDisable( GL_CULL_FACE );
+//	}
+//
+//	/*将顶点和片段着色器链接到PROGRAM*/
+//	program = PROGRAM_init((char *)"default");//初始化program指针
+//	/*创建一个新的顶点和片段SHADER指针*/
+//	program->vertex_shader = SHADER_init(VERTEX_SHADER, GL_VERTEX_SHADER);//SHADER_init函数的第一个参数表示着色器使用的内部名称，第二个参数表示类型
+//	program->fragment_shader = SHADER_init(FRAGMENT_SHADER, GL_FRAGMENT_SHADER);
+//
+//	/*为了能够从磁盘中加载所创建的着色器，需要在内存中加载相关的内容*/
+//	m = mopen(VERTEX_SHADER, 1);//第一个参数是文件名称，而第二个参数指定路径是否对于应用程序（1是，0否）
+//	if(m){//加载失败，该指针为NULL
+//		/*
+//		 * 对包含在MEMORY缓冲区指针(m->buffer)中的顶点着色器代码进行编译
+//		 */
+//		if(!SHADER_compile(program->vertex_shader,//SHADER结构指针，表示将对其代码进行编译的着色器
+//						   (char *)m->buffer,//表示着色器源(可从内存中访问该源)
+//						   DEBUG_SHADERS)//允许启用或禁用调试功能
+//						   ){
+//			exit(1);
+//		}
+//	}
+//	m = mclose(m);//释放MEMORY结构指针m
+//
+//	/*加载片段着色器并进行编译*/
+//	m = mopen(FRAGMENT_SHADER, 1);
+//	if(m){
+//		if(!SHADER_compile(program->fragment_shader,
+//						   (char *)m->buffer,
+//						   DEBUG_SHADERS
+//							)){
+//			exit(2);
+//		}
+//	}
+//	m = mclose(m);
+//
+//	/*完成顶点和片段着色器的最终链接*/
+//	if(!PROGRAM_link(program, DEBUG_SHADERS)){
+//		exit(3);
+//	}
+//}
+//
+///**
+// * 准备在绘制单个帧中顺序渲染所需的数据
+// */
+//void templateAppDraw( void )
+//{
+//	glClearColor(0.5f, 0.5f, 0.5f, 1.0f);//指定用来清理颜色缓冲区的颜色值（grey）
+//	glClear( GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+//	console_print("templateAppDraw\n");
+//
+//	/*顶点位置*/
+//	static const float POSITION[ 12 ] = {
+//		-0.5f, 0.0f, -0.5f, // Bottom left
+//		 0.5f, 0.0f, -0.5f,
+//		-0.5f, 0.0f,  0.5f,
+//		 0.5f, 0.0f,  0.5f // Top right
+//	};
+//	/*顶点颜色*/
+//	static const float COLOR[16] = {
+//			//R, G, B, A
+//			1.0f, 0.0f, 0.0f, 1.0f,
+//			0.0f, 1.0f, 0.0f, 1.0f,
+//			0.0f, 0.0f, 1.0f, 1.0f,
+//			1.0f, 1.0f, 0.0f, 1.0f,
+//	};
+//
+//	/*Select the model view matrix*/
+//	GFX_set_matrix_mode(MODELVIEW_MATRIX);
+//	/*
+//	 * Reset it to make sure you are going to deal with a clean identity matrix.
+//	 */
+//	GFX_load_identity();
+//	/*Scale the quad to be 100px by 100px*/
+//
+//	vec3 e = { 0.0f, -3.0f, 0.0f },//The eye position in world coordinates.
+//		 c = { 0.0f,  0.0f, 0.0f },//The position in world space where the eye is looking.
+//		 u = { 0.0f,  0.0f, 1.0f };//Use the position Z axis as the up vector.
+//
+//	GFX_look_at( &e, &c, &u );
+//
+//
+//
+//	y += 0.1f;
+//	/*第1个参数表示旋转角度(以度为单位)*/
+//	GFX_rotate( y * 50.0f,//Boost the angle a bit by multiplying it.
+//				1.0f,
+//				1.0f,
+//				1.0f );
+//
+//	/*告诉GPU在屏幕上绘制*/
+//	if(program->pid){//OpenGLES的索引通常从1开始，如果某个着色器编译失败，那么program->pid 为 0
+//		char attribute, uniform;
+//	/*为了架起应用程序数据与GPU数据之间的桥梁，需要使用这些统一的位置*/
+//		glUseProgram(program->pid);//告诉GPU使用哪个程序来绘制
+//
+//	/*要检索的位置变量名必须与着色器中声明的变量名完全相同*/
+//		uniform =
+//				PROGRAM_get_uniform_location(program,
+//						   	   	   	   	   	 (char *)"MODELVIEWPROJECTIONMATRIX");
+//	/*更新GPU中的数据*/
+//		glUniformMatrix4fv(
+//						   uniform,//The location value of the uniform.
+//						   1,//How many 4x4 matrix.
+//						   GL_FALSE,//Specify to do not transpose the matrix.
+//					/*
+//					 * Use the GFX helper function to calculate the result of the current model
+//					 * view matrix multiplied by the current projection matrix.
+//					 */
+//						   (float *)GFX_get_modelview_projection_matrix()
+//						  );
+//		attribute =    //获取POSITION属性位置
+//				PROGRAM_get_vertex_attrib_location(program,
+//												   (char *)"POSITION");
+//		glEnableVertexAttribArray(attribute);//告诉GLES可以使用顶点属性位置了
+//		/*告诉GLES需要使用该属性的哪些数据*/
+//		glVertexAttribPointer(
+//				attribute,//The attribute location.
+//				3, //How maniy elements; XY in this case, so 2.已修改
+//				GL_FLOAT,//The variable type.
+//				GL_FALSE,//Do not normalize the data.
+//				0, //The stride in bytes of the array delimiting the elements, in this case none.
+//				POSITION//The vertex position array pointer. 数组首地址
+//				);
+//		attribute =//对COLOR执行同上操作
+//				PROGRAM_get_vertex_attrib_location(program,
+//												   (char *)"COLOR");
+//		glEnableVertexAttribArray(attribute);
+//		glVertexAttribPointer(attribute,
+//							  4,
+//							  GL_FLOAT,
+//							  GL_FALSE,
+//							  0,
+//							  COLOR
+//							 );
+//
+//	/*现在调用glDrawArrays函数，告诉GPU使用特定模式（从数组指定的索引开始）绘制相应的数据*/
+//		glDrawArrays(GL_TRIANGLE_STRIP,//The drawing mode.
+//					 0,//Start at which index.
+//					 4);
+//	}//Close the program->pid check.
+//	GFX_error();//检查绘制当前帧时是否产生GL错误
+//}
+//
+//void templateAppToucheBegan(float x, float y, unsigned int tap_count ){
+//
+//	console_print("templateAppToucheBegan"
+//			"touche: %f,%f"
+//			"tap:%d\n", x, y, tap_count);
+//}
+//void templateAppToucheMoved(float x, float y, unsigned int tap_count){
+//
+//	console_print("templateAppToucheMoved"
+//			"touche: %f,%f"
+//			"tap:%d\n", x, y, tap_count);
+//}
+//void templateAppToucheEnded(float x, float y, unsigned int tap_count){
+//
+//	console_print("templateAppToucheEnded"
+//			"touche: %f,%f"
+//			"tap:%d\n", x, y, tap_count);
+//}
+//
+//void templateAppExit( void )
+//{
+//
+//	console_print("templateAppExit...\n");
+//
+////	printf("");
+//	/*对MEMORY结构变量m进行一次指针检查*/
+//	if(m){
+//		m = mclose(m);
+//	}
+//	/*检查指针是否释放*/
+//	if(program && program->vertex_shader)
+//		program->vertex_shader = SHADER_free(program->vertex_shader);
+//	if(program && program->fragment_shader)
+//		program->fragment_shader = SHADER_free(program->fragment_shader);
+//	if(program)
+//		program = PROGRAM_free(program);
+//}
+
+/*
+
+Book:      	Game and Graphics Programming for iOS and Android with OpenGL(R) ES 2.0
+Author:    	Romain Marucchi-Foino
+ISBN-10: 	1119975913
+ISBN-13: 	978-1119975915
+Publisher: 	John Wiley & Sons	
+
+Copyright (C) 2011 Romain Marucchi-Foino
+
+This software is provided 'as-is', without any express or implied warranty.
+In no event will the authors be held liable for any damages arising from the use of
+this software. Permission is granted to anyone who either own or purchase a copy of
+the book specified above, to use this software for any purpose, including commercial
+applications subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not claim that
+you wrote the original software. If you use this software in a product, an acknowledgment
+in the product would be appreciated but is not required.
+
+2. Altered source versions must be plainly marked as such, and must not be misrepresented
+as being the original software.
+
+3. This notice may not be removed or altered from any source distribution.
+
+*/
+
+#include "templateApp.h"
+
+TEMPLATEAPP templateApp = { templateAppInit,
+							templateAppDraw };
+
+#define VERTEX_SHADER ( char * )"vertex.glsl"
+
+#define FRAGMENT_SHADER ( char * )"fragment.glsl"
+
+#define DEBUG_SHADERS 1
+
+PROGRAM *program = NULL;
+
+MEMORY *m = NULL;
+
+void templateAppInit( int width, int height )
+{
+	atexit( templateAppExit );
+
+	GFX_start();
+
+	glViewport( 0.0f, 0.0f, width, height );
+
+	GFX_set_matrix_mode( PROJECTION_MATRIX );
+	{
+		GFX_load_identity();
+
+		GFX_set_orthographic( ( float )height / ( float )width,
+							  5.0f,
+							  ( float )width / ( float )height,
+							  1.0f,
+							  100.0f,
+							  0.0f );
+
+		glDisable( GL_CULL_FACE );
+	}
+
+	program = PROGRAM_init( ( char * )"default" );
+
+	program->vertex_shader = SHADER_init( VERTEX_SHADER, GL_VERTEX_SHADER );
+
+	program->fragment_shader = SHADER_init( FRAGMENT_SHADER, GL_FRAGMENT_SHADER );
+
+	m = mopen( VERTEX_SHADER, 1 );
+
+	if( m ) {
+
+		if( !SHADER_compile( program->vertex_shader,
+						     ( char * )m->buffer,
+							 DEBUG_SHADERS ) ) exit( 1 );
+	}
+	m = mclose( m );
+
+	m = mopen( FRAGMENT_SHADER, 1 );
+
+	if( m ) {
+
+		if( !SHADER_compile( program->fragment_shader,
+						     ( char * )m->buffer,
+						     DEBUG_SHADERS ) ) exit( 2 );
+	}
+
+	m = mclose( m );
+
+   if( !PROGRAM_link( program, DEBUG_SHADERS ) ) exit( 3 );
+}
+
+
+void templateAppDraw( void )
+{
+	static const float POSITION[ 12 ] = {
+	-0.5f, 0.0f, -0.5f, // Bottom left
+	 0.5f, 0.0f, -0.5f,
+	-0.5f, 0.0f,  0.5f,
+	 0.5f, 0.0f,  0.5f // Top right
+	};
+
+	static const float COLOR[ 16 ] = {
+	1.0f, 0.0f, 0.0f, 1.0f, // Red
+	0.0f, 1.0f, 0.0f, 1.0f, // Green
+	0.0f, 0.0f, 1.0f, 1.0f, // Blue
+	1.0f, 1.0f, 0.0f, 1.0f  // Yellow
+	};
+
+	glClearColor( 0.5f, 0.5f, 0.5f, 1.0f );
+
+	glClear( GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT );
+
+	GFX_set_matrix_mode( MODELVIEW_MATRIX );
+
+	GFX_load_identity();
+
+	vec3 e = { 0.0f, -3.0f, 0.0f },
+		 c = { 0.0f,  0.0f, 0.0f },
+		 u = { 0.0f,  0.0f, 1.0f };
+
+	GFX_look_at( &e, &c, &u );
+
+	static float y = 0.0f;
+
+	y += 0.1f;
+
+	GFX_translate( 0.0f, y, 0.0f );
+
+	GFX_rotate( y * 50.0f,
+				1.0f,
+				1.0f,
+				1.0f );
+
+	if( program->pid ) {
+
+		char attribute, uniform;
+
+		glUseProgram( program->pid );
+
+		uniform = PROGRAM_get_uniform_location( program,
+												( char * )"MODELVIEWPROJECTIONMATRIX" );
+
+		glUniformMatrix4fv( uniform,
+							1 /* How many 4x4 matrix */,
+							GL_FALSE /* Transpose the matrix? */,
+							( float * )GFX_get_modelview_projection_matrix() );
+
+		attribute = PROGRAM_get_vertex_attrib_location( program,
+														( char * )"POSITION" );
+
+		glEnableVertexAttribArray( attribute );
+
+		glVertexAttribPointer( attribute, 3, GL_FLOAT, GL_FALSE, 0, POSITION );
+
+		attribute = PROGRAM_get_vertex_attrib_location( program,
+														( char * )"COLOR" );
+
+		glEnableVertexAttribArray( attribute );
+
+		glVertexAttribPointer( attribute, 4, GL_FLOAT, GL_FALSE, 0, COLOR );
+
+		glDrawArrays( GL_TRIANGLE_STRIP, 0, 4 );
+	}
+}
+
+
+void templateAppExit( void )
+{
+	printf("templateAppExit...\n");
+
+	if( program && program->vertex_shader )
+		program->vertex_shader = SHADER_free( program->vertex_shader );
+
+	if( program && program->fragment_shader )
+		program->fragment_shader = SHADER_free( program->fragment_shader );
+
+	if( program )
+		program = PROGRAM_free( program );
+}
+

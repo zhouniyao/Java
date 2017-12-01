@@ -1,0 +1,16 @@
+1504767824009	Delete element
+1504767862358	Delete element
+1504769897710	Rename resource 'cube.obj'
+1504769909206	Rename resource 'cube_obj.mtl'
+1504886681467	Extract method 'initObjData'
+1504886855919	Extract method 'initShader'
+1504934665445	Copy compilation unit
+1504937380339	Move compilation unit
+1504939010448	Rename resource 'baozi.obj'
+1504939021249	Rename resource 'baozi_obj.mtl'
+1504939034254	Rename resource 'baozi.mtl'
+1504939478767	Copy compilation unit
+1504940304724	Rename resource 'laotou.obj'
+1504940313757	Rename resource 'laotou_obj.mtl'
+1504940425595	Copy compilation unit
+1504942434275	Copy compilation unit

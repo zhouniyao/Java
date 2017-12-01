@@ -1,0 +1,9 @@
+13:34:05 **** Clean-only build of configuration Default for project HelloNDK ****
+ndk-build.cmd clean 
+Clean: HelloNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+13:34:05 Build Finished (took 310ms)
+

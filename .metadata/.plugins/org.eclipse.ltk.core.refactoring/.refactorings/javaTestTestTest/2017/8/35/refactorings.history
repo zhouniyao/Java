@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.niming.ThreadNProducerAndNConsumer&apos; to &apos;NProducerAndNConsumer&apos;&#x0D;&#x0A;- Original project: &apos;javaTestTestTest&apos;&#x0D;&#x0A;- Original element: &apos;com.niming.ThreadNProducerAndNConsumer&apos;&#x0D;&#x0A;- Renamed element: &apos;com.niming.NProducerAndNConsumer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ThreadNProducerAndNConsumer&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.niming{ThreadNProducerAndNConsumer.java[ThreadNProducerAndNConsumer" matchStrategy="1" name="NProducerAndNConsumer" qualified="false" references="true" similarDeclarations="false" stamp="1503883108734" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+ <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center" 
+        >
+        <ImageView
+            android:id="@+id/dynamic_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="4dp"
+            android:src="@drawable/camera2" />
+	      <!-- 分割线 -->
+		<View 
+		    android:layout_width="fill_parent" 
+		    android:layout_height="4dip" 
+		    android:background="#FF4500" 
+		    android:layout_marginTop="2dip"></View> 
+    </LinearLayout>
+ 	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+ 		 <ImageButton 
+		     android:id="@+id/rect2"
+		     android:src="@drawable/rect"
+			 android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+		 <ImageButton 
+		     android:id="@+id/hat2"
+		     android:src="@drawable/hat3"
+			 android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+	 	 <ImageButton 
+	 	     android:id="@+id/pricess2"
+	 	     android:src="@drawable/princess3"
+			android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+	 	 <ImageButton 
+	 	     android:id="@+id/zhenhuan2"
+	 	     android:src="@drawable/zhenhuan3"
+	 
+			android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+	 	 <ImageButton 
+	 	     android:id="@+id/keai2"
+	 	     android:src="@drawable/keai3"
+			android:layout_height="wrap_content"
+		     android:layout_width="wrap_content"
+	     />
+
+    </LinearLayout>
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+
+    <TextView
+        android:id="@+id/paomadeng2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:singleLine="true"
+        android:textSize="10dp"
+        android:text="'@'Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249     @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249         @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249         @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249        @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249" 
+        />
+    </LinearLayout>
+</LinearLayout>

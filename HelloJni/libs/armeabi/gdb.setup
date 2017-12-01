@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi
+directory D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/platforms/android-3/arch-arm/usr/include jni D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/sources/cxx-stl/system

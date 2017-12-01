@@ -1,0 +1,3349 @@
+10:52:01 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+10:53:48 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+10:56:34 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+10:57:05 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+10:57:30 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+10:58:56 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:00:22 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:03:39 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:04:11 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:05:09 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:05:23 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:05:45 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:05:59 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:06:21 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:07:02 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:07:29 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:08:49 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+11:09:11 **** Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:10:06 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:15:20 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+11:15:31 **** Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+11:40:04 **** Clean-only build of configuration Default for project HelloNDK ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+11:45:12 **** Clean-only build of configuration Default for project HelloNDK ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+11:45:33 **** Build of configuration Default for project HelloNDK ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+11:49:00 **** Clean-only build of configuration Default for project HelloNDK ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+11:49:10 **** Build of configuration Default for project HelloNDK ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+11:52:53 **** Incremental Build of configuration Default for project HelloNDK ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+11:54:38 **** Incremental Build of configuration Default for project HelloNDK ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+11:54:48 **** Incremental Build of configuration Default for project HelloNDK ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+12:51:47 **** Incremental Build of configuration Default for project HelloNDK ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+12:52:17 **** Incremental Build of configuration Default for project HelloNDK ****
+ndk-build.cmd V=1 
+Install        : libHelloNDK.so => libs/armeabi/libHelloNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libHelloNDK.so" ".\libs\armeabi\libHelloNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libHelloNDK.so
+13:34:05 **** Clean-only build of configuration Default for project HelloNDK ****
+ndk-build.cmd clean 
+Clean: HelloNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+15:39:47 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+Install        : libZTestNDK.so => libs/armeabi/libZTestNDK.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libZTestNDK.so" ".\libs\armeabi\libZTestNDK.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libZTestNDK.so
+15:42:29 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+16:09:17 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+16:16:26 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+16:16:55 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+16:17:07 **** Build of configuration Default for project ZTestNDK ****
+ndk-build.cmd V=1 
+"Compile++ thumb : ZTestNDK <= ZTestNDK.cpp
+
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-g++ -MMD -MP -MF ./obj/local/armeabi/objs/ZTestNDK/ZTestNDK.o.d -fpic -ffunction-sections -funwind-tables -fstack-protector -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__  -Wno-psabi -march=armv5te -mtune=xscale -msoft-float -fno-exceptions -fno-rtti -mthumb -Os -fomit-frame-pointer -fno-strict-aliasing -finline-limit=64 -ID:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/sources/cxx-stl/system/include -Ijni -DANDROID  -Wa,--noexecstack   -O2 -DNDEBUG -g   -ID:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/platforms/android-14/arch-arm/usr/include -c  jni/ZTestNDK.cpp -o ./obj/local/armeabi/objs/ZTestNDK/ZTestNDK.o 
+jni/ZTestNDK.cpp: In function '_jintArray* Java_com_example_ztestndk_JniClient_sort(JNIEnv*, _jclass*, _jintArray*, jint)':
+jni/ZTestNDK.cpp:25: error: no match for 'operator>' in '*(arr + ((unsigned int)i)) > *(arr + ((unsigned int)j))'
+jni/ZTestNDK.cpp:27: error: cannot convert '_jintArray' to 'jint' in assignment
+jni/ZTestNDK.cpp:29: error: no match for 'operator=' in '*(arr + ((unsigned int)j)) = temp'
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/platforms/android-14/arch-arm/usr/include/jni.h:69: note: candidates are: _jintArray& _jintArray::operator=(const _jintArray&)
+make: *** [obj/local/armeabi/objs/ZTestNDK/ZTestNDK.o] Error 1
+16:20:11 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+16:21:01 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:56:11 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 clean 
+Cannot run program "ndk-build": Launching failed
+16:56:11 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 clean 
+Cannot run program "ndk-build": Launching failed
+16:59:11 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 -j 4 clean 
+Cannot run program "ndk-build": Launching failed
+16:59:11 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 -j 4 clean 
+Cannot run program "ndk-build": Launching failed
+17:05:56 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+21:49:38 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+21:50:19 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+21:55:33 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+21:56:59 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build.cmd clean 
+Clean: ZTestNDK [armeabi]
+
+Clean: stdc++ [armeabi]
+
+21:58:27 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build V=1 clean 
+Cannot run program "ndk-build": Launching failed
+22:31:52 **** Clean-only build of configuration Default for project ZTestNDK ****
+ndk-build V=1 clean 
+Cannot run program "ndk-build": Launching failed
+22:32:57 **** Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:33:36 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:34:31 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:35:59 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:36:13 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:36:55 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:38:12 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:38:37 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:40:04 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:40:35 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+22:40:59 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+23:01:58 **** Incremental Build of configuration Default for project ZTestNDK ****
+ndk-build V=1 V=1 
+Cannot run program "ndk-build": Launching failed
+09:09:42 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:10:43 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:11:37 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+09:12:25 **** Clean-only build of configuration Default for project GFXortho2_2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:13:25 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+09:13:32 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+09:26:15 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:26:29 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:28:21 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:28:49 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:29:19 **** Clean-only build of configuration Default for project template ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+09:39:37 **** Clean-only build of configuration Default for project template ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+09:41:46 **** Clean-only build of configuration Default for project template ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+09:41:57 **** Build of configuration Default for project template ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+09:42:33 **** Clean-only build of configuration Default for project template ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+09:42:48 **** Build of configuration Default for project template ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+09:43:28 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+09:45:08 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+09:45:25 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+10:17:24 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+10:18:24 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+10:21:18 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+14:09:10 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+22:39:48 **** Clean-only build of configuration Default for project ArrayNdk ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+22:51:35 **** Clean-only build of configuration Default for project ArrayNdk ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+22:52:06 **** Clean-only build of configuration Default for project ArrayNdk ****
+ndk-build.cmd clean 
+Clean: ArrayNdk [armeabi]
+
+Clean: stdc++ [armeabi]
+
+22:53:02 **** Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+12:02:51 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+12:04:34 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+12:05:04 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+12:06:53 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+12:06:58 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+14:58:51 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+15:02:53 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+15:04:44 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+15:04:52 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+15:08:10 **** Clean-only build of configuration Default for project GFXortho2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+15:08:39 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+15:43:51 **** Build of configuration Default for project U93 ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+15:44:56 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+15:48:22 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+16:00:32 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+16:00:59 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:04:52 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+16:05:01 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:08:58 **** Build of configuration Default for project Copy of template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:11:57 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:12:22 **** Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+17:12:16 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+17:12:54 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+17:16:43 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+17:16:50 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+17:17:27 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+18:42:10 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 -j 4 clean 
+Cannot run program "ndk-build": Launching failed
+18:42:11 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 -j 4 clean 
+Cannot run program "ndk-build": Launching failed
+18:42:17 **** Build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 -j 4 V=1 
+Cannot run program "ndk-build": Launching failed
+18:48:17 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+18:53:05 **** Clean-only build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+18:53:16 **** Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:38:21 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:42:04 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 -j 4 clean 
+Cannot run program "ndk-build": Launching failed
+19:42:05 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 -j 4 clean 
+Cannot run program "ndk-build": Launching failed
+19:47:56 **** Clean-only build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+19:48:32 **** Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:58:36 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:10:04 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 clean 
+Cannot run program "ndk-build": Launching failed
+20:17:48 **** Clean-only build of configuration Default for project my_template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+20:18:19 **** Build of configuration Default for project my_template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:20:44 **** Clean-only build of configuration Default for project my_template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+20:20:51 **** Build of configuration Default for project my_template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:21:39 **** Clean-only build of configuration Default for project my_template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+20:24:24 **** Clean-only build of configuration Default for project my_template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+20:25:23 **** Build of configuration Default for project my_template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:26:27 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+20:26:41 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+20:29:21 **** Clean-only build of configuration Default for project template ****
+ndk-build NDK_DEBUG=1 clean 
+Cannot run program "ndk-build": Launching failed
+20:34:52 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:36:18 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+21:19:30 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+22:27:28 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+07:29:44 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+11:03:57 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+11:05:36 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+11:07:19 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+11:08:28 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+17:16:49 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+10:05:23 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+10:06:12 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+10:07:26 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+12:00:12 **** Clean-only build of configuration Default for project template ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+15:28:41 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+15:28:42 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+15:28:44 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+15:28:44 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+15:28:45 **** Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+22:55:54 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+22:55:55 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+22:55:56 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+22:55:57 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+22:55:57 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+14:35:58 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+14:35:59 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+14:36:00 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+14:36:01 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+14:36:02 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:07:31 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+09:43:43 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+09:43:44 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+09:43:45 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+09:43:47 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+09:43:48 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:48:04 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+16:48:04 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:48:05 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+16:48:06 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:48:07 **** Incremental Build of configuration Default for project template ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+14:34:51 **** Clean-only build of configuration Default for project template ****
+ndk-build clean 
+Cannot run program "ndk-build": Launching failed
+16:44:20 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+16:44:21 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:44:22 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+16:44:23 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+16:44:24 **** Build of configuration Default for project template ****
+ndk-build V=1 
+Cannot run program "ndk-build": Launching failed
+19:38:54 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+19:38:55 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:38:57 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+19:38:57 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:00:51 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+20:00:52 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:00:53 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+20:00:54 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:02:22 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+20:02:22 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:02:24 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+20:02:24 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:19:27 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+20:19:28 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+20:19:29 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+20:19:29 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:33:09 **** Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+19:33:10 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:33:12 **** Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+19:33:14 **** Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:41:41 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+19:41:42 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:41:44 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+19:41:45 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:55:45 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+19:55:46 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+19:55:48 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+19:55:48 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+09:33:13 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+09:33:13 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Command canceled
+10:58:36 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+10:58:37 **** Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+10:58:39 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+10:58:39 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+21:11:40 **** Incremental Build of configuration Default for project ArrayNdk ****
+ndk-build.cmd V=1 
+Install        : libArrayNdk.so => libs/armeabi/libArrayNdk.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libArrayNdk.so" ".\libs\armeabi\libArrayNdk.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libArrayNdk.so
+21:11:42 **** Incremental Build of configuration Default for project GFXortho2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+21:11:43 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+21:11:44 **** Incremental Build of configuration Default for project U98_GFXortho2-2 ****
+ndk-build.cmd V=1 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libopenal.so" ".\libs\armeabi\libopenal.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libopenal.so
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libtemplateApp.so" ".\libs\armeabi\libtemplateApp.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libtemplateApp.so
+15:45:13 **** Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:29:11 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:30:44 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:32:26 **** Clean-only build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+19:33:06 **** Clean-only build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+19:33:15 **** Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:33:35 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:33:37 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:34:03 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:35:02 **** Clean-only build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+19:35:15 **** Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:45:27 **** Clean-only build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+19:47:22 **** Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+19:48:02 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+20:43:01 **** Clean-only build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+20:43:14 **** Build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+14:45:15 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:45:17 **** Incremental Build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+15:03:04 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:03:05 **** Incremental Build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+15:04:24 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:04:25 **** Incremental Build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+15:12:30 **** Clean-only build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+15:12:48 **** Clean-only build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+15:14:31 **** Build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+15:51:36 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:53:31 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:55:52 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:58:42 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:01:17 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:02:29 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:03:06 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:04:02 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:06:01 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:06:20 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:06:48 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+16:07:05 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:13:00 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:19:08 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:19:54 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:20:29 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:24:42 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:27:20 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:28:20 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:37:21 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:40:19 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:41:12 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:43:37 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:45:09 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:46:19 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:47:39 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+00:49:58 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:03:30 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:04:43 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:05:55 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:07:11 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:08:39 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:12:56 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:15:28 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:18:26 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:19:59 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:20:43 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:22:00 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:31:49 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:33:27 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:36:28 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:39:32 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:40:52 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:52:01 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:56:10 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:58:38 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+12:44:43 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+13:09:38 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+13:18:01 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+13:19:09 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+13:21:02 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:06:29 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:06:30 **** Incremental Build of configuration Default for project template ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libopenal.so => libs/armeabi/libopenal.so
+
+Install        : libtemplateApp.so => libs/armeabi/libtemplateApp.so
+
+14:22:03 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:23:37 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:26:43 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:27:31 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:32:24 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:39:31 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:42:04 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:43:30 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:48:10 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+14:50:43 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:02:04 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:03:20 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:03:49 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:04:26 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:05:00 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:10:39 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:11:21 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:12:22 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:12:53 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:16:46 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:20:51 **** Incremental Build of configuration Default for project VRNDK01 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:38:05 **** Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+15:41:54 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:07:51 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:13:57 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:16:36 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:18:31 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:19:35 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:24:44 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:27:08 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:51:00 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+01:58:30 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+02:01:29 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+02:05:43 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+02:07:54 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+02:09:46 **** Incremental Build of configuration Default for project VRNDK02 ****
+"D:\\Eclipse_Android_Building\\OpenGLES_build\\android-ndk-r8\\ndk-build.cmd" all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Clean-only build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project template ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRndk03 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+"Compile++ thumb : VRndk03 <= VRndk03.cpp
+
+StaticLibrary  : libstdc++.a
+
+SharedLibrary  : libVRndk03.so
+
+Install        : libVRndk03.so => libs/armeabi/libVRndk03.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRndk03.so => libs/armeabi/libVRndk03.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRndk03.so => libs/armeabi/libVRndk03.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+"Compile++ thumb : VRndk03 <= VRndk03.cpp
+
+SharedLibrary  : libVRndk03.so
+
+Install        : libVRndk03.so => libs/armeabi/libVRndk03.so
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRndk03 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRndk03 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRndk03 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRndk03 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+"Compile++ thumb : VRndk03 <= VRndk03.cpp
+
+jni/VRndk03.cpp:29: error: expected identifier before ',' token
+jni/VRndk03.cpp:29: error: two or more data types in declaration of 'parameter'
+jni/VRndk03.cpp:29: error: expected ')' before ',' token
+jni/VRndk03.cpp:29: error: expected initializer before 'jargv'
+make: *** [obj/local/armeabi/objs/VRndk03/VRndk03.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+"Compile++ thumb : VRndk03 <= VRndk03.cpp
+
+SharedLibrary  : libVRndk03.so
+
+Install        : libVRndk03.so => libs/armeabi/libVRndk03.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRndk03 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRndk03.so => libs/armeabi/libVRndk03.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK02 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: VRNDK01 [armeabi]
+
+Clean: stdc++ [armeabi]
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****
+
+**** Build of configuration Default for project VRNDK01 ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd all 
+Install        : libVRNDK01.so => libs/armeabi/libVRNDK01.so
+
+
+**** Build Finished ****

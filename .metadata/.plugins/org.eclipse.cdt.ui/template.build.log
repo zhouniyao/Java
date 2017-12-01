@@ -1,0 +1,14 @@
+
+**** Clean-only build of configuration Default for project template ****
+
+D:\Eclipse_Android_Building\OpenGLES_build\android-ndk-r8\ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+
+**** Build Finished ****

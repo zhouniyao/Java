@@ -1,0 +1,194 @@
+package niming.VR2;
+
+import static android.opengl.GLES20.*;
+import static android.opengl.Matrix.*;
+
+
+import javax.microedition.khronos.egl.EGLConfig;
+import javax.microedition.khronos.opengles.GL10;
+
+import com.example.vrndk01.R;
+import com.geometric.BezierSurface2;
+
+import android.content.Context;
+import android.opengl.GLSurfaceView;
+import android.opengl.Matrix;
+import android.opengl.GLSurfaceView.Renderer;
+import android.os.Bundle;
+import android.widget.LinearLayout;
+import android.widget.SeekBar;
+import niming.core.MyActivity;
+/**
+ * 根据触碰任意旋+可以加速度旋转   汽车 【失败】
+ *
+ */
+public class BezierSurfaceDemo extends MyActivity {
+	private float mPreviousY;//上次的触控位置Y坐标
+	private float mPreviousX;//上次的触控位置X坐标
+	private final float TOUCH_SCALE_FACTOR = 180.0f/320;//角度缩放比例
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		mGLSurfaceView = new GLSurfaceView(this);
+        // Request an OpenGL ES 2.0 compatible context.
+       mGLSurfaceView.setEGLContextClientVersion(2);            
+        
+        // Assign our renderer.
+//        glSurfaceView.setRenderer(new AirHockeyRenderer(this));
+        mGLSurfaceView.setRenderer(new proRenderer(this));
+		// 切换到主界面
+		setContentView(R.layout.activity_seekbar);	
+		LinearLayout ll = (LinearLayout) findViewById(R.id.main_liner);
+		ll.addView(mGLSurfaceView);
+        //普通拖拉条被拉动的处理代码
+        SeekBar sb=(SeekBar)this.findViewById(R.id.SeekBar01);
+        sb.setOnSeekBarChangeListener(
+            new SeekBar.OnSeekBarChangeListener()
+            {
+				@Override
+				public void onProgressChanged(SeekBar seekBar, int progress,
+						boolean fromUser) {
+//					mGLSurfaceView.setLightOffset((seekBar.getMax()/2.0f-progress)/(seekBar.getMax()/2.0f)*-4);
+				}
+				@Override
+				public void onStartTrackingTouch(SeekBar seekBar) {	}
+				@Override
+				public void onStopTrackingTouch(SeekBar seekBar) { }            	
+            }
+        );
+
+	}
+}
+class proRenderer implements Renderer{
+	BezierSurface2 bezier;
+	
+	private static final int POSITION_COMPONENT_COUNT = 2;
+//	private static final int POSITION_COMPONENT_COUNT = 4;
+	private static final int BYTES_PER_FLOAT = 4;
+//	private final FloatBuffer vertexData;
+	private final Context context;
+	private int program;
+	//	获得一个uniform的位置
+	private static final String U_COLOR = "u_Color";
+	private int uColorLocation;
+	//获取属性的位置
+	private static final String A_POSITION = "a_Position";
+	private int aPositionLocation;
+	
+	private static final String A_COLOR = "a_Color";
+	private static final int COLOR_COMPONENT_COUNT = 3;
+	private static final int STRIDE = (POSITION_COMPONENT_COUNT + COLOR_COMPONENT_COUNT) * BYTES_PER_FLOAT;
+	private int aColorLocation;
+	
+	/*第五章*/
+	private static final String U_MATRIX = "u_Matrix";
+	private int uMatrixLocation;
+	
+	/*定义各类变换矩阵*/
+	private float[] modelMatrix = new float[16];
+	private float[] viewMatrix = new float[16];
+	private float[] projectionMatrix = new float[16];
+    private float[] MVMatrix = new float[16];//矩阵连乘的中间结果
+    private float[] MVPMatrix = new float[16];//最终的矩阵
+	
+	/*第六章*/
+	//投影矩阵、平移矩阵、旋转矩阵
+	private final float[] modelMatrix = new float[16];
+
+	private int screenWidth;
+	private int screenHeight;
+	private float aspectRatio;
+	
+	
+	/*
+	 * 第三章内容，搭建游戏框架
+	 * 创建一个浮点数数组，这些浮点数表示组成空气曲棍球桌子的顶点的位置；
+	 * 本地内存中创建一个缓冲区，称为vertexData，并把这些位置复制到这个缓冲区内。
+	 * 在我们告诉OpenGL从这个缓冲区中读取数据前，需要确保它会从开头处开始读取数据，而不是中间或尾。
+	 * 每个缓冲区都有一个内部指针，可以通过调用position(int)移动它，
+	 * 然后，我们调用glVertexAttribPointer()告诉OpenGL，它可以在缓冲区vertexData中找到a_Position对应的数据。
+	 */
+	public proRenderer(Context context){
+		this.context = context;
+		bezier = new BezierSurface2(context);
+	}
+	
+	
+	@Override
+	/**
+	 * 把着色器源代码从文件中读出来
+	 */
+	public void onSurfaceCreated(GL10 gl, EGLConfig config) {
+	   /*
+		// Set the background clear color to red. The first component is red,
+		// the second is green, the third is blue, and the last component is
+		// alpha, which we don't use in this lesson.
+		glClearColor(1.0f, 0.0f, 0.0f, 0.0f);
+       */
+		glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
+	}
+
+	
+	@Override
+	public void onSurfaceChanged(GL10 gl, int width, int height) {
+		glViewport(0, 0, width, height);
+//		Log.i(TAG, "$宽3："+ width + "    " + "$高3：" + height);
+		screenWidth = width;
+		screenHeight= height;
+		/**screenWidth/2 < screenHeight */ 
+		//屏幕高-宽比(两个半屏),即aspecRatio > 1
+		aspectRatio = (width/2) > height ?
+				(float)(width/2)/(float)height : (float)height/(float)(width/2);
+	}
+	
+	float binocularDistance = 0.066f;//双目距离
+	@Override
+	/**
+	 * 几乎所有的display()完成类似操作
+	 * 1)调用glClear()来清除窗口内容；
+	 * 2)调用OpenGL命令来渲染对象；
+	 * 3)将最终图像输出到屏幕。
+	 */
+	public void onDrawFrame(GL10 gl) {
+		// Clear the rendering surface.
+		glViewport(0, 0, 500, 800);
+		glClear(GL_COLOR_BUFFER_BIT);
+		
+		// 因为屏幕分成左右两半
+        glViewport(0, 0, screenWidth/2, screenHeight);
+    	// 透视投影
+//			MatrixHelper.perspectiveM(projectionMatrix, 45, aspectRatio, 1f, 10f);	
+		Matrix.frustumM(projectionMatrix, 0, -1f, 1f, -aspectRatio, aspectRatio, 1f, 100f);
+        // 视点位置设置
+        Matrix.setLookAtM(viewMatrix, 0, -1 * binocularDistance, 0f, 2.2f, 0f, 0f, -5f, 0f, 1f, 0f);
+//	        Matrix.setLookAtM(viewMatrix, 0, -1f, 0f, 2.2f, 0f, 0f, -5f, 0f, 1f, 0f);
+		setIdentityM(modelMatrix, 0);// 归一化
+//		translateM(modelMatrix, 0, 0f, 0f, -2f);// 沿z轴平移-3
+//		scaleM(modelMatrix, 0, 1f, 1f, 1f);
+//		rotateM(modelMatrix, 0, angleInDegrees, 0f, 1f, 0f);//绕x轴旋转angleInDegrees
+		translateM(modelMatrix, 0, translateX, translateY, translateZ - 2f);//沿z轴平移-3
+		scaleM(modelMatrix, 0, scaleX, scaleY, scaleZ);
+		
+		if(isRotate){  //旋转速度不为0时
+			rotateM(modelMatrix, 0, rotate, rotateX, rotateY, rotateZ);// 旋转矩阵必须有个参数不为0
+			rotate += speed;
+//			MatrixStack.pushMatrix(modelMatrix);
+		}else{
+//			MatrixStack.popMatrix(modelMatrix);
+		}
+		
+			
+		if (isTouch) {
+			rotateM(modelMatrix, 0, xAngle, 1, 0, 0);// 绕x轴转一下xAngle大小的角度 
+			rotateM(modelMatrix, 0, yAngle, 0, 1, 0);// 
+			rotateM(modelMatrix, 0, zAngle, 0, 0, 1);// 
+		}
+		Matrix.multiplyMM(MVMatrix, 0, viewMatrix, 0, modelMatrix, 0);
+		Matrix.multiplyMM(MVPMatrix, 0, projectionMatrix, 0, MVMatrix, 0);
+        glUniformMatrix4fv(uMVPMatrixLocation, 1, false, MVPMatrix, 0);
+		
+	}
+
+	
+}

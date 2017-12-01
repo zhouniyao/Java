@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;public void arrayAdapterShow()&apos; from &apos;com.niming.adapterdemo.MainActivity.onCreate()&apos; to &apos;com.niming.adapterdemo.MainActivity&apos;&#x0D;&#x0A;- Original project: &apos;AdapterDemo&apos;&#x0D;&#x0A;- Method name: &apos;arrayAdapterShow&apos;&#x0D;&#x0A;- Destination type: &apos;com.niming.adapterdemo.MainActivity&apos;&#x0D;&#x0A;- Declared visibility: &apos;public&apos;&#x0D;&#x0A;- Declare thrown runtime exceptions&#x0D;&#x0A;- Generate method comment" comments="true" description="Extract method &apos;arrayAdapterShow&apos;" destination="0" exceptions="true" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.niming.adapterdemo{MainActivity.java" name="arrayAdapterShow" replace="false" selection="545 1117" stamp="1498893515245" version="1.0" visibility="1"/>
+</session>

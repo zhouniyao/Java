@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <SurfaceView 
+	    android:id="@+id/sfv_preview"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"/>
+	
+	<SurfaceView 
+	    android:id="@+id/sfv_face"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"/>
+	
+	
+
+    <ImageView
+        android:id="@+id/exchanger"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:alpha="0.4"
+        android:src="@drawable/camera2" />
+     <TextView
+        android:id="@+id/paomadeng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:singleLine="true"
+        android:textSize="10dp"
+        android:text="'@'Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249     @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249         @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249         @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249        @Copyright YunNanNormalUniversity 倪 明  2017 QQ: 292729249" 
+        />
+
+</RelativeLayout>

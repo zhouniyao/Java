@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;zFaceDetect&apos;" deleteContents="false" description="Delete resource &apos;zFaceDetect&apos;" element1="/zFaceDetect" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1503669556748"/>&#x0A;<refactoring comment="Delete resource &apos;ZFaceDetectorStatic&apos;" deleteContents="false" description="Delete resource &apos;ZFaceDetectorStatic&apos;" element1="/ZFaceDetectorStatic" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1503669561891"/>
+</session>

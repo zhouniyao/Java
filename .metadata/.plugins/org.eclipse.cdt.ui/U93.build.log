@@ -1,0 +1,10 @@
+21:11:43 **** Incremental Build of configuration Default for project U93 ****
+ndk-build.cmd V=1 
+Install        : libU93.so => libs/armeabi/libU93.so
+
+if not exist ".\libs\armeabi" md ".\libs\armeabi"
+copy /b/y ".\obj\local\armeabi\libU93.so" ".\libs\armeabi\libU93.so" > NUL
+D:/Eclipse_Android_Building/OpenGLES_build/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/arm-linux-androideabi-strip --strip-unneeded  ./libs/armeabi/libU93.so
+
+21:11:44 Build Finished (took 377ms)
+

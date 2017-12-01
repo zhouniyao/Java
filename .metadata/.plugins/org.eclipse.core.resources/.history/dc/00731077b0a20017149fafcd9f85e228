@@ -1,0 +1,87 @@
+package niming.VR2;
+
+import static android.opengl.GLES20.*;
+import static android.opengl.Matrix.*;
+
+import javax.microedition.khronos.egl.EGLConfig;
+import javax.microedition.khronos.opengles.GL10;
+
+import com.example.vrndk01.R;
+import com.geometric.BezierSurface;
+import com.niming.airhockey1.TestTest;
+
+import android.opengl.GLSurfaceView;
+import android.opengl.GLSurfaceView.Renderer;
+import android.os.Bundle;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.View.OnTouchListener;
+import android.widget.LinearLayout;
+import android.widget.SeekBar;
+import niming.core.MyActivity;
+import niming.core.MyGLSurfaceView;
+import niming.core.MyRenderer2;
+import niming.util.Constant;
+/**
+ * 根据触碰任意旋+可以加速度旋转   汽车 【失败】
+ *
+ */
+public class BezierSurfaceDemo extends MyActivity {
+	private float mPreviousY;//上次的触控位置Y坐标
+	private float mPreviousX;//上次的触控位置X坐标
+	private final float TOUCH_SCALE_FACTOR = 180.0f/320;//角度缩放比例
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		mGLSurfaceView = new GLSurfaceView(this);
+        // Request an OpenGL ES 2.0 compatible context.
+       mGLSurfaceView.setEGLContextClientVersion(2);            
+        
+        // Assign our renderer.
+//        glSurfaceView.setRenderer(new AirHockeyRenderer(this));
+        mGLSurfaceView.setRenderer(new proRenderer(this));
+		// 切换到主界面
+		setContentView(R.layout.activity_seekbar);	
+		LinearLayout ll = (LinearLayout) findViewById(R.id.main_liner);
+		ll.addView(mGLSurfaceView);
+        //普通拖拉条被拉动的处理代码
+        SeekBar sb=(SeekBar)this.findViewById(R.id.SeekBar01);
+        sb.setOnSeekBarChangeListener(
+            new SeekBar.OnSeekBarChangeListener()
+            {
+				@Override
+				public void onProgressChanged(SeekBar seekBar, int progress,
+						boolean fromUser) {
+//					mGLSurfaceView.setLightOffset((seekBar.getMax()/2.0f-progress)/(seekBar.getMax()/2.0f)*-4);
+				}
+				@Override
+				public void onStartTrackingTouch(SeekBar seekBar) {	}
+				@Override
+				public void onStopTrackingTouch(SeekBar seekBar) { }            	
+            }
+        );
+
+	}
+}
+class proRenderer implements Renderer{
+	
+
+	@Override
+	public void onDrawFrame(GL10 gl) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onSurfaceChanged(GL10 gl, int width, int height) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onSurfaceCreated(GL10 gl, EGLConfig config) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

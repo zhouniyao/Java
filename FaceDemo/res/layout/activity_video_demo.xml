@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right" >
+    
+	<SurfaceView 
+	    android:id="@+id/sfv_preview"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"/>
+	
+	<SurfaceView 
+	    android:id="@+id/sfv_face"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"/>
+	
+    <RadioGroup
+        android:id="@+id/align_mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+        <RadioButton
+            android:id="@+id/detect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.27"
+            android:checked="true"
+            android:text="检测" />
+
+        <RadioButton
+            android:id="@+id/align"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="聚焦" />
+
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="16dp"
+        android:alpha="0.5"
+        android:src="@drawable/camera2" />
+	
+</RelativeLayout>

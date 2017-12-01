@@ -1,0 +1,13 @@
+09:12:25 **** Clean-only build of configuration Default for project GFXortho2_2 ****
+ndk-build.cmd clean 
+Clean: openal [armeabi]
+
+Clean: stlport_shared [armeabi]
+
+Clean: stlport_static [armeabi]
+
+Clean: templateApp [armeabi]
+
+
+09:12:25 Build Finished (took 867ms)
+
